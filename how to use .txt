@@ -1,0 +1,2 @@
+step 1 run http://localhost/CompanyEmployeesCrm/admin/login
+step 2 loginwith username:admin@admin.com and password:password of login with admin admin
